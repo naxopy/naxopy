@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello, 
+
+I am a French engineering student. 
+
+I do stuff that I consider useful. 
+
+Enjoy :)
 
 <!--
 **naxopy/naxopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
